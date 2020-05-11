@@ -8,6 +8,7 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(input)
-  puts 'input'.to_i
+  nums = input.to_i
+  puts nums + 1;
 end
 
